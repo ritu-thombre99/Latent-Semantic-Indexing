@@ -1,0 +1,10 @@
+Quantum teleportation is a process in which quantum information 
+like the exact state of an atom or photonthat can be transmitted 
+(exactly, in principle) from one location to another, with the help of classical 
+communication and previously shared quantum entanglement between the sending and 
+receiving location. Because it depends on classical communication, 
+which can proceed no faster than the speed of light, it cannot be used for 
+faster than light transport or communication of classical bits. 
+While it has proven possible to teleport one or more qubits of information 
+between two (entangled) quanta, this has not yet been achieved between anything 
+larger than molecules.
